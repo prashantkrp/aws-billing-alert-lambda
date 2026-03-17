@@ -40,15 +40,27 @@ The Lambda function is implemented in Python using Boto3 to:
 ---
 
 ## 📸 Screenshots
-Include the following:
-- SNS Topic creation
-- Email subscription confirmation
-- IAM Role setup
-- Lambda function code
-- EventBridge schedule
-- Lambda test execution
-- Email alert received
 
+### SNS Topic
+![SNS](screenshots/SNS-Topic.png)
+
+### Subscription
+![Subscription](screenshots/Create-Subscription.png)
+
+### IAM Role
+![IAM](screenshots/IAM-Role-Creation.png)
+
+### Lambda Function
+![Lambda](screenshots/Lambda-function-alert.png)
+
+### Lambda Output
+![Output](screenshots/Lambda_function_code-testing-output.png)
+
+### EventBridge Schedule
+![Schedule](screenshots/Billing-alert-scedule.png)
+
+### Test Event
+![Test](screenshots/test-event.png)
 ---
 
 ## ⚠️ Important Note
